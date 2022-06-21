@@ -1,0 +1,43 @@
+footer{
+    background-color: #F3F3F5;
+}
+.container{
+    
+    display: flex;
+}
+.first-section{
+    padding-top: 3em;
+    padding-left: 5em;
+}
+.first-section p {
+    color: black;
+    font-family: 'Archivo , Medium';
+    width: 40%;
+}
+.icons{
+    display: flex;
+    gap: 1em;
+}
+.fa-envelope{
+ padding-top: 1em;
+}
+.fa-phone{
+    padding-top: 1em;
+}
+.brands{
+    padding-top: 1em;
+    display: flex;
+    gap: 2em;
+    font-size: large;
+}
+.second-section{
+    padding-top: 5em;
+    display: flex;
+    flex-direction: row;
+    gap: 5em;
+    width: 60%;
+}
+.copy{
+    border-top: 4px black;
+    text-align: center;
+}
